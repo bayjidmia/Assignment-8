@@ -3,6 +3,13 @@ import image from "../../assets/icons8-google-play-store-48.png";
 import image2 from "../../assets/icons8-app-store-48.png";
 
 const BannerUp = () => {
+  const handleClick = () => {
+    window.location.href = "https://play.google.com/store/apps?hl=en";
+  };
+  const handleClick2 = () => {
+    window.location.href = "https://www.apple.com/app-store/";
+  };
+
   return (
     <div className="flex flex-col justify-center items-center text-center mt-20 ">
       <div>
@@ -22,12 +29,12 @@ const BannerUp = () => {
       </div>
 
       <div className="mt-5">
-        <button class="btn mr-6">
+        <button onClick={handleClick} class="btn mr-6">
           {" "}
           <img className="w-[26px] h-[30px] " src={image} alt="" />
-          Google Play
+          Google Play Store
         </button>
-        <button class="btn">
+        <button onClick={handleClick2} class="btn">
           {" "}
           <img className="w-[26px] h-[30px]" src={image2} alt="" /> App Store
         </button>
