@@ -1,6 +1,7 @@
 import React from "react";
 import { IoSearchOutline } from "react-icons/io5";
 import { useLoaderData } from "react-router";
+import Allapp from "./Allapp";
 
 const Allapps = () => {
   const allapps = useLoaderData();
@@ -17,7 +18,7 @@ const Allapps = () => {
         </p>
       </div>
       <div className="flex  justify-between mt-10 mr-5 ml-5 mb-10">
-        <h1>() Apss Found</h1>
+        <h1>({allapps.length}) Apss Found</h1>
         <div className="relative w-1/2 lg:w-full max-w-sm">
           <IoSearchOutline className="absolute left-3 top-1/2 -translate-y-1/2 text-[#627382] text-xl pointer-events-none" />
           <input
@@ -28,6 +29,12 @@ const Allapps = () => {
             id=""
           />
         </div>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+        {allapps.map((allapp) => (
+          <Allapp allapp={allapp} key={allapp.id}></Allapp>
+        ))}
       </div>
     </div>
   );
