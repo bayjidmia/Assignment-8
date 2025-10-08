@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://p.kindpng.com/picc/s/21-217852_whatsapp-icon-transparent-png-chatmate-for-whatsapp-sctv.png",
+    "title": "ChatMate",
+    "companyName": "PixelSoft Inc.",
+    "id": 1,
+    "description": "ChatMate is a smart messaging app that allows users to send instant texts, make HD video calls, and share media securely. With built-in AI assistance, you can auto-reply, translate messages, and organize group chats easily.",
+    "size": 85,
+    "reviews": 12500,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/5SLG2s107uPPgbkjFsKxdEMI8P85FDxZzZ2lXsryBxP3DhcH49ILOtW7verzgV6Xoavz",
+    "title": "FitTrack",
+    "companyName": "HealthWave Labs",
+    "id": 2,
+    "description": "FitTrack is a health and fitness tracker that monitors your steps, heart rate, and sleep patterns. Get daily goals, personalized workout plans, and nutrition tips based on your activity data.",
+    "size": 92,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 6320 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/D6tnkyz4g9S_nlcG19XGvdKIvDuzfxNmMwMiGyXeO7RXqBwLOAA25AmQzhoaRCf_7xhC=w240-h480-rw",
+    "title": "TaskFlow",
+    "companyName": "NextGen Systems",
+    "id": 3,
+    "description": "TaskFlow is a productivity app that helps you manage projects, create to-do lists, and collaborate with your team in real-time. With built-in cloud sync, your tasks stay updated across all devices.",
+    "size": 76,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": 1.5,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3950 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/87/2f/1b872f4d-0a6b-f89c-0047-a20b08acb2f7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/230x0w.webp",
+    "title": "PhotoBoost",
+    "companyName": "LensCraft Studio",
+    "id": 4,
+    "description": "PhotoBoost is a professional-grade photo editing app packed with filters, AI retouching, and background removal. Edit, enhance, and share your creative work instantly on social platforms.",
+    "size": 110,
+    "reviews": 20400,
+    "ratingAvg": 4.8,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 14520 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/U3D11wnGF8EN8le58MN_a2fSF5Cf9qyGVUFxUICcW0jICk1Wxe_4-kxhDxEVpDjXkog=w240-h480-rw",
+    "title": "NoteSphere",
+    "companyName": "CloudMind Co.",
+    "id": 5,
+    "description": "NoteSphere lets you write, organize, and sync your notes effortlessly. With voice-to-text, markdown support, and offline access, it’s the ultimate companion for students and professionals.",
+    "size": 58,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 1.1,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2760 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/eb7lc-LVeVLhLYE4Lshc3l3x-cxL3tyrAp2NIgQcNyvddsR0eGL7v9B1Dynp8X-0pg=w240-h480-rw",
+    "title": "Soundify",
+    "companyName": "AudioCore Media",
+    "id": 6,
+    "description": "Soundify offers a massive library of music and podcasts for streaming and offline playback. Enjoy custom playlists, equalizer settings, and AI-based recommendations for your mood.",
+    "size": 102,
+    "reviews": 18400,
+    "ratingAvg": 4.7,
+    "downloads": 7.2,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 13260 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/k7P7qxhX6ovCgtmXSubTxCHj7VRHNk6p_ZVxUVtRRzyANOdmr5bufbi5HRwWGJq6MQ1W=w240-h480-rw",
+    "title": "TravelGo",
+    "companyName": "SkyLink Travel",
+    "id": 7,
+    "description": "TravelGo is your all-in-one travel planner that helps you book flights, hotels, and cars in one place. Get real-time flight updates and AI travel recommendations for your next trip.",
+    "size": 89,
+    "reviews": 15700,
+    "ratingAvg": 4.2,
+    "downloads": 4.5,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/epUC-xtwg7kPCw2R6F1aNTrX7a8uSSTyz2IywBS_LXrEVT5VgQKYYp6vk3s0718J6no=w240-h480-rw",
+    "title": "EduSmart",
+    "companyName": "LearnTech Solutions",
+    "id": 8,
+    "description": "EduSmart is an online learning platform offering interactive courses, live classes, and AI-based learning analytics. Track progress, earn certificates, and learn new skills at your own pace.",
+    "size": 120,
+    "reviews": 24600,
+    "ratingAvg": 4.9,
+    "downloads": 9.5,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 18100 }
+    ]
+  }
+]

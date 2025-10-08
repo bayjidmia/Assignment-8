@@ -1,0 +1,291 @@
+[
+  {
+    "image": "https://p.kindpng.com/picc/s/21-217852_whatsapp-icon-transparent-png-chatmate-for-whatsapp-sctv.png",
+    "title": "ChatMate",
+    "companyName": "PixelSoft Inc.",
+    "id": 1,
+    "description": "ChatMate is a smart messaging app that allows users to send instant texts, make HD video calls, and share media securely. With built-in AI assistance, you can auto-reply, translate messages, and organize group chats easily.",
+    "size": 85,
+    "reviews": 12500,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/5SLG2s107uPPgbkjFsKxdEMI8P85FDxZzZ2lXsryBxP3DhcH49ILOtW7verzgV6Xoavz",
+    "title": "FitTrack",
+    "companyName": "HealthWave Labs",
+    "id": 2,
+    "description": "FitTrack is a health and fitness tracker that monitors your steps, heart rate, and sleep patterns. Get daily goals, personalized workout plans, and nutrition tips based on your activity data.",
+    "size": 92,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 6320 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/D6tnkyz4g9S_nlcG19XGvdKIvDuzfxNmMwMiGyXeO7RXqBwLOAA25AmQzhoaRCf_7xhC=w240-h480-rw",
+    "title": "TaskFlow",
+    "companyName": "NextGen Systems",
+    "id": 3,
+    "description": "TaskFlow is a productivity app that helps you manage projects, create to-do lists, and collaborate with your team in real-time. With built-in cloud sync, your tasks stay updated across all devices.",
+    "size": 76,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": 1.5,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3950 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/87/2f/1b872f4d-0a6b-f89c-0047-a20b08acb2f7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/230x0w.webp",
+    "title": "PhotoBoost",
+    "companyName": "LensCraft Studio",
+    "id": 4,
+    "description": "PhotoBoost is a professional-grade photo editing app packed with filters, AI retouching, and background removal. Edit, enhance, and share your creative work instantly on social platforms.",
+    "size": 110,
+    "reviews": 20400,
+    "ratingAvg": 4.8,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 14520 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/U3D11wnGF8EN8le58MN_a2fSF5Cf9qyGVUFxUICcW0jICk1Wxe_4-kxhDxEVpDjXkog=w240-h480-rw",
+    "title": "NoteSphere",
+    "companyName": "CloudMind Co.",
+    "id": 5,
+    "description": "NoteSphere lets you write, organize, and sync your notes effortlessly. With voice-to-text, markdown support, and offline access, it’s the ultimate companion for students and professionals.",
+    "size": 58,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 1.1,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2760 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/eb7lc-LVeVLhLYE4Lshc3l3x-cxL3tyrAp2NIgQcNyvddsR0eGL7v9B1Dynp8X-0pg=w240-h480-rw",
+    "title": "Soundify",
+    "companyName": "AudioCore Media",
+    "id": 6,
+    "description": "Soundify offers a massive library of music and podcasts for streaming and offline playback. Enjoy custom playlists, equalizer settings, and AI-based recommendations for your mood.",
+    "size": 102,
+    "reviews": 18400,
+    "ratingAvg": 4.7,
+    "downloads": 7.2,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 13260 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/k7P7qxhX6ovCgtmXSubTxCHj7VRHNk6p_ZVxUVtRRzyANOdmr5bufbi5HRwWGJq6MQ1W=w240-h480-rw",
+    "title": "TravelGo",
+    "companyName": "SkyLink Travel",
+    "id": 7,
+    "description": "TravelGo is your all-in-one travel planner that helps you book flights, hotels, and cars in one place. Get real-time flight updates and AI travel recommendations for your next trip.",
+    "size": 89,
+    "reviews": 15700,
+    "ratingAvg": 4.2,
+    "downloads": 4.5,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/epUC-xtwg7kPCw2R6F1aNTrX7a8uSSTyz2IywBS_LXrEVT5VgQKYYp6vk3s0718J6no=w240-h480-rw",
+    "title": "EduSmart",
+    "companyName": "LearnTech Solutions",
+    "id": 8,
+    "description": "EduSmart is an online learning platform offering interactive courses, live classes, and AI-based learning analytics. Track progress, earn certificates, and learn new skills at your own pace.",
+    "size": 120,
+    "reviews": 24600,
+    "ratingAvg": 4.9,
+    "downloads": 9.5,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 18100 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/79VnwktTFAXPrGMzG8yx_8RExc98MTuoXgSGQvDL9VNl7bDQ7OXcdzruWhcdjBmQuw=w240-h480-rw",
+    "title": "MindEase",
+    "companyName": "CalmCore Ltd.",
+    "id": 9,
+    "description": "MindEase helps you relax and reduce stress with guided meditations, breathing exercises, and sleep sounds. Track your mood daily and build a consistent mindfulness habit.",
+    "size": 78,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": 2.4,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 510 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6830 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/QGrAyCWOD1y8YfSLde7FRDSIadKaMVWpKn-hgxNzs4UT4g9Bz1I0DblRkLdMUJ8gdlGs=w240-h480-rw",
+    "title": "Shop-Ease",
+    "companyName": "MegaMart Global",
+    "id": 10,
+    "description": "ShopEase lets you discover thousands of products, compare prices, and get same-day delivery. Enjoy exclusive deals, wishlist sync, and secure payment options.",
+    "size": 95,
+    "reviews": 21600,
+    "ratingAvg": 4.5,
+    "downloads": 6.5,
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 13100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU=w240-h480-rw",
+    "title": "CodeCamp",
+    "companyName": "DevAcademy Labs",
+    "id": 11,
+    "description": "CodeCamp offers coding tutorials and interactive challenges for beginners and professionals. Learn JavaScript, Python, and web development with real-time code testing.",
+    "size": 112,
+    "reviews": 18200,
+    "ratingAvg": 4.8,
+    "downloads": 4.1,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 13060 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NTjz3CcarbXmd20xtPRyArMW7crNBj8H_RdsR2NpBnsm6ocSrwzBJKVN2-uPhEfHQYc=w240-h480-rw",
+    "title": "FinTrack",
+    "companyName": "SmartFinance Corp.",
+    "id": 12,
+    "description": "FinTrack is a personal finance app that tracks your income, expenses, and savings goals. Get AI-powered insights on spending patterns and manage your budget easily.",
+    "size": 88,
+    "reviews": 9400,
+    "ratingAvg": 4.4,
+    "downloads": 2.1,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 5970 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/RNP5wUNU9-0a0MhW-b1dP0tw4gDOMQX8T4pFWl5f7-uvqzcZSzMRHuiCLXEgUirAmFDT=w240-h480-rw",
+    "title": "HomeChef",
+    "companyName": "Foodify Ltd.",
+    "id": 13,
+    "description": "HomeChef helps you explore thousands of recipes, plan your meals, and order fresh groceries. With step-by-step video guides and nutritional info, cooking becomes fun and easy.",
+    "size": 101,
+    "reviews": 15600,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 11220 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/nrK5A_4-Gvo3LI8LcxRQnnCT_tGfRA8k0yo_PVIQZIb4naSLCmGhBaWRi5-z0MmaoMs=w240-h480-rw",
+    "title": "RideOn",
+    "companyName": "UrbanMove Tech",
+    "id": 14,
+    "description": "RideOn lets you book cabs, bikes, or shared rides instantly. Track drivers in real-time, view trip history, and enjoy fast, affordable, and safe transport anywhere.",
+    "size": 84,
+    "reviews": 22800,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 15100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Mga5x_sgyVnWuxzz12KInEwMAkkODScNKfUeg5Me5EaFNIcMPJiIizDZkX-o-JqK91fJ=w240-h480-rw",
+    "title": "DailyNews+",
+    "companyName": "InfoHub Media",
+    "id": 15,
+    "description": "DailyNews+ keeps you updated with real-time headlines, breaking news alerts, and personalized stories based on your interests. Supports multiple languages and offline reading.",
+    "size": 72,
+    "reviews": 13400,
+    "ratingAvg": 4.1,
+    "downloads": 5.3,
+    "ratings": [
+      { "name": "1 star", "count": 560 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 6440 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8YkXmhweu_LvBzit8FZxSafrXWMg46GqUdopBLkpu-VOD_i1IpN8f5zmlmrGLMI8lhk=w240-h480-rw",
+    "title": "WeatherWise",
+    "companyName": "SkyPredict Systems",
+    "id": 16,
+    "description": "WeatherWise provides accurate weather forecasts, severe storm alerts, and air quality reports. Plan your day better with radar maps and hourly predictions powered by AI.",
+    "size": 69,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 2.8,
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5390 }
+    ]
+  }
+]
