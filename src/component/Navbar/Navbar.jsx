@@ -4,6 +4,9 @@ import { FaGithub } from "react-icons/fa6";
 import image from "../../assets/logo.png";
 
 const Navbar = () => {
+  const handleClick = () => {
+    window.location.href = "https://github.com/bayjidmia";
+  };
   const link = (
     <>
       <NavLink
@@ -62,7 +65,10 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{link}</ul>
         </div>
         <div className="navbar-end">
-          <a className="btn text-white rounded-[4px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2] ">
+          <a
+            onClick={handleClick}
+            className="btn text-white rounded-[4px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2] "
+          >
             {" "}
             <FaGithub /> Contribute
           </a>
