@@ -1,11 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import image1 from "../../assets/icon-downloads.png";
 import image2 from "../../assets/icon-ratings.png";
 import image3 from "../../assets/icon-review.png";
 import AppCgart from "./AppCgart";
+import { toast } from "react-toastify";
 
 const AppDetails = () => {
+  const [installed, setInstalled] = useState(false);
   const { id } = useParams();
   console.log(id);
   const appsid = parseInt(id);
@@ -15,9 +17,10 @@ const AppDetails = () => {
   const handleAddtoinstall = () => {
     const existinglist = JSON.parse(localStorage.getItem("installlist"));
     let updatelist = [];
+    setInstalled(true);
     if (existinglist) {
       const isduplicate = existinglist.some((p) => p.id === singleApp.id);
-      if (isduplicate) return alert("sorry the app existing");
+      if (isduplicate) return;
       updatelist = [...existinglist, singleApp];
     } else {
       updatelist.push(singleApp);
@@ -66,8 +69,12 @@ const AppDetails = () => {
           </div>
           <div className="mt-10">
             <button
-              onClick={handleAddtoinstall}
+              onClick={() => {
+                handleAddtoinstall();
+                toast("The App is Installed");
+              }}
               className="btn btn-success text-white"
+              disabled={installed}
             >
               Install Now ({singleApp.size}MB)
             </button>

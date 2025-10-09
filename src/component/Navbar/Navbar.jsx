@@ -58,11 +58,13 @@ const Navbar = () => {
               {link}
             </ul>
           </div>
-          <a className="text-xl font-bold flex text-center items-center text-[#632EE3] ">
-            {" "}
-            <img className="w-[40px] h-[40px] mr-2" src={image} alt="" />{" "}
-            HERO.IO
-          </a>
+          <NavLink to={"/Home"}>
+            <a className="text-xl font-bold flex text-center items-center text-[#632EE3] ">
+              {" "}
+              <img className="w-[40px] h-[40px] mr-2" src={image} alt="" />{" "}
+              HERO.IO
+            </a>
+          </NavLink>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">{link}</ul>

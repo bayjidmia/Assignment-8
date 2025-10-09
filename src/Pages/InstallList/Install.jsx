@@ -1,6 +1,7 @@
 import React from "react";
 import image1 from "../../assets/icon-downloads.png";
 import image2 from "../../assets/icon-ratings.png";
+import { toast } from "react-toastify";
 
 const Install = ({ install, setinstalllist }) => {
   const handleremove = (id) => {
@@ -43,7 +44,7 @@ const Install = ({ install, setinstalllist }) => {
             <button
               onClick={() => {
                 handleremove(install.id);
-                alert("clicked");
+                toast("the app uninstall");
               }}
               className="btn text-white btn-success"
             >
