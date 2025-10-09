@@ -12,7 +12,6 @@ const Allapps = () => {
         allApp.title.toLocaleLowerCase().includes(term)
       )
     : allapps;
-  console.log(searchapps);
 
   return (
     <div className="max-w-[1440px] mx-auto">
@@ -25,7 +24,7 @@ const Allapps = () => {
         </p>
       </div>
       <div className="flex  justify-between mt-10 mr-5 ml-5 mb-10">
-        <h1>({allapps.length}) Apss Found</h1>
+        <h1>({searchapps.length}) Apss Found</h1>
         <div className="relative w-1/2 lg:w-full max-w-sm">
           <IoSearchOutline className="absolute left-3 top-1/2 -translate-y-1/2 text-[#627382] text-xl pointer-events-none" />
           <input

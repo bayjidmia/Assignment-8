@@ -9,12 +9,21 @@ const AppDetails = () => {
   const { id } = useParams();
   console.log(id);
   const appsid = parseInt(id);
-
   const data = useLoaderData();
-  console.log(data);
   const singleApp = data.find((app) => app.id === appsid);
-  console.log(singleApp);
   const ratings = singleApp.ratings;
+  const handleAddtoinstall = () => {
+    const existinglist = JSON.parse(localStorage.getItem("installlist"));
+    let updatelist = [];
+    if (existinglist) {
+      const isduplicate = existinglist.some((p) => p.id === singleApp.id);
+      if (isduplicate) return alert("sorry the app existing");
+      updatelist = [...existinglist, singleApp];
+    } else {
+      updatelist.push(singleApp);
+    }
+    localStorage.setItem("installlist", JSON.stringify(updatelist));
+  };
   return (
     <div className="max-w-[1440px] mx-auto px-20">
       <div className="flex flex-col md:flex-row w-full  gap-10 mt-8 mb-8">
@@ -56,7 +65,10 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-10">
-            <button className="btn btn-success text-white">
+            <button
+              onClick={handleAddtoinstall}
+              className="btn btn-success text-white"
+            >
               Install Now ({singleApp.size}MB)
             </button>
           </div>

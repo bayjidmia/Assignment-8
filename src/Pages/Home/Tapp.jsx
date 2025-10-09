@@ -3,15 +3,14 @@ import image from "../../assets/icon-ratings.png";
 import image1 from "../../assets/icon-downloads.png";
 
 const Tapp = ({ allapp }) => {
-  console.log(allapp);
   return (
-    <div className="">
+    <div>
       <div className="card bg-[#FFFFFF] mb-10 mt-10 mr-5 ml-5 shadow-lg">
         <figure>
           <img
             className="w-[300px] bg-gray-200 rounded-[8px] p-4"
             src={allapp.image}
-            alt="Shoes"
+            alt={allapp.title}
           />
         </figure>
         <div className="card-body">

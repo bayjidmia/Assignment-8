@@ -21,7 +21,10 @@ const Navbar = () => {
       >
         Apps
       </NavLink>
-      <NavLink className="mr-4 font-bold hover:underline hover:text-[#9F62F2]">
+      <NavLink
+        to={"/install"}
+        className="mr-4 font-bold hover:underline hover:text-[#9F62F2]"
+      >
         Installation
       </NavLink>
     </>
